@@ -1,1 +1,1 @@
-http://103.56.208.123:8086/terrain/bijoyaid/
+https://bpa-bd.org/terrain/bangla_aid
